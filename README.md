@@ -10,6 +10,6 @@
    ###### Manager can view all orders with filtering, change their status. Can delete a user or change his role (manager/client).
    
    
-##Database schema
+## Database schema
 
 
