@@ -12,6 +12,10 @@
    ###### Manager can view all orders with filtering, change their status. Can delete a user or change his role (manager/client).
    
    
+   
 ## Database schema
+
+![зображення](https://user-images.githubusercontent.com/85941909/206448501-1467e4af-e092-446e-a3f4-9e961a505d29.png)
+
 
 
