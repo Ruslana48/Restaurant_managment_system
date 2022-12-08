@@ -18,4 +18,34 @@
 ![зображення](https://user-images.githubusercontent.com/85941909/206448501-1467e4af-e092-446e-a3f4-9e961a505d29.png)
 
 
+## Used technologies
+
+
+    Java EE
+        Servlets
+        Filters
+        Listeners
+        JSP
+    MySql (used standart JDBC for connection)
+    
+## Used patterns
+
+    MVC
+    DAO
+    Abstract factory for dao for different databases
+    Singleton for ConnectionPool
+    Builder
+    
+    
+## Set up project
+
+    Clone current repository
+    Set your database connect rules in restaurant/src/main/webapp/META-INF/context.xml
+    Run restaurant/sql/db-create.sql to set up database on your devise
+    Run app using servlet container (Recommended Tomcat v.9.0.52)
+    Use app in your browser
+    
+ ## Screenshots
+
+
 
