@@ -1,0 +1,18 @@
+<jsp:useBean id="dish" type="entity.Dish"/>
+<div class="dish_container2">
+    <img src="${pageContext.request.contextPath}/imagesForMenu/dish-${dish.id}.jpg"
+         class="dish_img2">
+    <div class="details">
+        <h5><fmt:message key="dish.id.${dish.id}.name" bundle="${lang}"/></h5>
+        <p class="dish_description"><fmt:message key="dish.id.${dish.id}.description" bundle="${lang}"/>...</p>
+        <p class="weight">Weight: ${dish.weight} g</p>
+        <h5 class="price">${dish.price}&#8372</h5>
+        <form action="cart" method="get">
+            <input name="id" style="display: none" value="${dish.id}">
+            <input value="1" name="count" style="display: none">
+            <input type="submit"
+                   value="Add to cart"
+                   class="dish_addtocart btn btn-outline-primary">
+        </form>
+    </div>
+</div>
