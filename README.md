@@ -46,6 +46,31 @@
     Use app in your browser
     
  ## Screenshots
+ 
+ ## Log in/Sign Up 
+ 
+ ![зображення](https://user-images.githubusercontent.com/85941909/206449963-fba1c579-74b8-4603-92ef-9c223fb7e5e8.png)
+## Fields validation
 
+![зображення](https://user-images.githubusercontent.com/85941909/206450077-f2cb73a9-cbd5-4bab-a92b-7948b3226d2a.png)
+
+## Localization
+
+![зображення](https://user-images.githubusercontent.com/85941909/206450171-4dd83a86-16bc-43d0-9215-f5866392218d.png)
+
+
+   ## For User
+   
+![зображення](https://user-images.githubusercontent.com/85941909/206450470-41c83f9e-8241-440e-84e3-0eb5a4e006bd.png)
+![зображення](https://user-images.githubusercontent.com/85941909/206450583-30766ef4-706a-4053-a200-6ecc34075616.png)
+![зображення](https://user-images.githubusercontent.com/85941909/206450689-5dec80d5-f199-445b-be21-7dc23db9dca1.png)
+![зображення](https://user-images.githubusercontent.com/85941909/206451166-fd35b3a3-1e40-4f3f-95df-00766e3e0cf4.png)
+
+
+## For Manager
+
+![зображення](https://user-images.githubusercontent.com/85941909/206450867-19d0755a-7cb5-4106-a27e-e19488af3d70.png)
+![зображення](https://user-images.githubusercontent.com/85941909/206450922-84e18e2e-8802-434f-8026-f9aafc4ad3b6.png)
+![зображення](https://user-images.githubusercontent.com/85941909/206451024-3b4ac1dc-40c6-42bf-879b-5524d6dbe4aa.png)
 
 
