@@ -50,6 +50,8 @@
  ## Log in/Sign Up 
  
  ![зображення](https://user-images.githubusercontent.com/85941909/206449963-fba1c579-74b8-4603-92ef-9c223fb7e5e8.png)
+ ![зображення](https://user-images.githubusercontent.com/85941909/206451608-067b48ae-5383-420c-b1bd-3fdb5eed474f.png)
+
 ## Fields validation
 
 ![зображення](https://user-images.githubusercontent.com/85941909/206450077-f2cb73a9-cbd5-4bab-a92b-7948b3226d2a.png)
@@ -72,5 +74,7 @@
 ![зображення](https://user-images.githubusercontent.com/85941909/206450867-19d0755a-7cb5-4106-a27e-e19488af3d70.png)
 ![зображення](https://user-images.githubusercontent.com/85941909/206450922-84e18e2e-8802-434f-8026-f9aafc4ad3b6.png)
 ![зображення](https://user-images.githubusercontent.com/85941909/206451024-3b4ac1dc-40c6-42bf-879b-5524d6dbe4aa.png)
+![зображення](https://user-images.githubusercontent.com/85941909/206451744-7bba8042-ff92-4527-b93b-8a0c5c38d379.png)
+
 
 
