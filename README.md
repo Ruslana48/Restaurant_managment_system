@@ -62,7 +62,8 @@
 
 
    ## For User
-   
+ 
+![зображення](https://user-images.githubusercontent.com/85941909/209664832-eb70ff9e-e95e-4668-a43d-3056592f11c4.png)
 ![зображення](https://user-images.githubusercontent.com/85941909/206450470-41c83f9e-8241-440e-84e3-0eb5a4e006bd.png)
 ![зображення](https://user-images.githubusercontent.com/85941909/206450583-30766ef4-706a-4053-a200-6ecc34075616.png)
 ![зображення](https://user-images.githubusercontent.com/85941909/206450689-5dec80d5-f199-445b-be21-7dc23db9dca1.png)
@@ -70,7 +71,7 @@
 
 
 ## For Manager
-
+![зображення](https://user-images.githubusercontent.com/85941909/209664685-31811b29-7a92-4d33-87f4-64c77d62b75b.png)
 ![зображення](https://user-images.githubusercontent.com/85941909/206450867-19d0755a-7cb5-4106-a27e-e19488af3d70.png)
 ![зображення](https://user-images.githubusercontent.com/85941909/206450922-84e18e2e-8802-434f-8026-f9aafc4ad3b6.png)
 ![зображення](https://user-images.githubusercontent.com/85941909/206451024-3b4ac1dc-40c6-42bf-879b-5524d6dbe4aa.png)
