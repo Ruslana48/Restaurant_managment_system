@@ -4,6 +4,7 @@
 
 ![зображення](https://user-images.githubusercontent.com/85941909/206445186-5708a50e-992b-4a0d-897e-b10e48fce7da.png)
 ![зображення](https://user-images.githubusercontent.com/85941909/211043400-5dd218e4-cdfc-41ea-af2b-a21b55accf7c.png)
+![зображення](https://user-images.githubusercontent.com/85941909/211043617-3bc7454f-0b60-4398-b63c-4ff0c1e22c0e.png)
 ![зображення](https://user-images.githubusercontent.com/85941909/206445897-79381cbb-8827-4ca3-b1e4-f1409ef29ee0.png)
 
 ## User roles: (Client, Manager)
@@ -76,4 +77,10 @@
 ![зображення](https://user-images.githubusercontent.com/85941909/206450922-84e18e2e-8802-434f-8026-f9aafc4ad3b6.png)
 ![зображення](https://user-images.githubusercontent.com/85941909/206451024-3b4ac1dc-40c6-42bf-879b-5524d6dbe4aa.png)
 ![зображення](https://user-images.githubusercontent.com/85941909/206451744-7bba8042-ff92-4527-b93b-8a0c5c38d379.png)
+
+## Forgot Password
+
+![зображення](https://user-images.githubusercontent.com/85941909/211043719-bfcfbe80-551c-4039-8162-b865e44f3690.png)
+![зображення](https://user-images.githubusercontent.com/85941909/211043810-dcf04afa-b7fd-4305-bbc2-c916a8f799a6.png)
+
 
